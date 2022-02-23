@@ -1,0 +1,22 @@
+Team:
+Week of November 24, 2019:
+	- Meeting for the initial distribution of individual team work.
+		> Arthur's task:
+			> mySQL queries
+			> mySQL queries optimization
+		> Taylor's task:
+		    > Port mySQL queries to jsp
+			> Design and implementation of the Java Server Page
+		> Emily's task:
+		    > Assist implementation of Java Server Page
+			> Cypher queries
+			> Cypher queries optimization
+
+Week of December 1, 2019:
+	- Work on individual parts (mySQl queries, Cypher queries, set up of the first JSP queries).
+
+Week of December 8, 2019:
+	- Most of the communication was done through canvas mailboxes.
+	- End of individual works.
+	- Pooling of work for web application.
+	- Formatting the different pdf and txt files for rendering.

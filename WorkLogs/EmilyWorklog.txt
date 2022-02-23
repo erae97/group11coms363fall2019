@@ -1,0 +1,18 @@
+Emily:
+Week of December 1, 2019
+	-JSP setup (4 hours)
+		> Tuesday : solo attempt
+		> Friday : got help
+Week of December 8, 2019
+	-JSP coding (7 hours)
+		> Tuesday : requested help from within our group 
+			    after trying on my own for a bit
+		> Friday : Q3-Q11 on webpage
+	-Cypher Queries (12 hours)
+		> Monday : Q1
+		> Friday : Q1-Q18
+		> Saturday : fixed Q18
+			     Worked the queries I'm stuck on (Q3 and Q23)
+			     Updated Table 3
+			     Misc. file updates (eg. PerfNeo4j, JSP README)
+ 

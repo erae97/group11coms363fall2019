@@ -1,0 +1,9 @@
+Arthur:
+Week of December 1, 2019
+	- mySQL Queries "Before.sql" (9 hours)
+		> Monday : Query 1-9
+		> Friday : Query 10-23
+Week of December 8, 2019
+	- mySQL Queries optimization "PhysicalDesign.sql" and "Before.sql" (8 hours)
+		> Monday : Query 1-11
+		> Thursday : Query 15-23

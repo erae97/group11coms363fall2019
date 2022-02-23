@@ -1,0 +1,14 @@
+Taylor Premo:
+	Dec 9:
+		created working JSP project
+			5 hours
+	Dec 12:
+		converted Result.jsp to method/switch format
+			9 hours
+		created query selection
+			1 hour
+	Dec 14:
+		added user inputs to Index.jsp and connected to appropriate methods
+			3 Hours
+		debugging & testing, ensuring all methods match the mySQL queries
+			3 hours
